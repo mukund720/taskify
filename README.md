@@ -1,6 +1,6 @@
 # 📋 Taskify - Task Management Application
 
-Taskify is a full-stack task management system built with **Angular 18** on the frontend and **Node.js + Express** with **MongoDB** on the backend. It allows users to create, update, filter, and delete tasks with priorities, due dates, and statuses.
+Taskify is a full-stack task management system built with **Angular 19** on the frontend and **Node.js + Express** with **MongoDB** on the backend. It allows users to create, update, filter, and delete tasks with priorities, due dates, and statuses.
 
 ---
 
@@ -8,7 +8,7 @@ Taskify is a full-stack task management system built with **Angular 18** on the 
 
 | Layer        | Technology                    |
 |--------------|-------------------------------|
-| Frontend     | Angular 18, RxJS, SCSS        |
+| Frontend     | Angular 19, RxJS, SCSS        |
 | Backend      | Node.js, Express              |
 | Database     | MongoDB (Mongoose ODM)        |
 | API Protocol | REST                          |
@@ -23,7 +23,7 @@ taskify/
 └── frontend/
 
 - **/backend** - Node.js Express REST API with MongoDB
-- **/frontend** - Angular 18 SPA for UI/UX
+- **/frontend** - Angular 19 SPA for UI/UX
 
 ---
 
