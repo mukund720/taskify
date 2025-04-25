@@ -2,8 +2,8 @@ import { ComponentFixture, TestBed, fakeAsync, tick } from '@angular/core/testin
 import { TaskDetailComponent } from './task-detail.component';
 import { ActivatedRoute } from '@angular/router';
 import { of } from 'rxjs';
-import { TaskService } from '../../core/services/task.service';
-import { Task } from '../../core/models/task.model';
+import { TaskService } from '../../../core/services/task.service';
+import { Task } from '../../../core/models/task.model';
 import { By } from '@angular/platform-browser';
 
 describe('TaskDetailComponent', () => {

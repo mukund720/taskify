@@ -1,6 +1,6 @@
 import { ComponentFixture, TestBed, fakeAsync, tick } from '@angular/core/testing';
 import { TaskFormComponent } from './task-form.component';
-import { TaskService } from '../../core/services/task.service';
+import { TaskService } from '../../../core/services/task.service';
 import { Router, ActivatedRoute } from '@angular/router';
 import { of } from 'rxjs';
 import { ReactiveFormsModule } from '@angular/forms';

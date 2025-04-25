@@ -1,6 +1,6 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 import { TaskListComponent } from './task-list.component';
-import { TaskService } from '../../core/services/task.service';
+import { TaskService } from '../../../core/services/task.service';
 import { of } from 'rxjs';
 import { Router, RouterModule } from '@angular/router';
 import { MatTableModule } from '@angular/material/table';
