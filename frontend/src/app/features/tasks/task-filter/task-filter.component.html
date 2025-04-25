@@ -1,0 +1,18 @@
+<div class="filter-container">
+    <mat-form-field appearance="outline" class="filter-input">
+      <mat-label>Filter by Title</mat-label>
+      <input matInput [(ngModel)]="filterText" (input)="onFilterChange()" placeholder="Search title..." />
+    </mat-form-field>
+  
+    <mat-form-field appearance="outline" class="filter-select">
+      <mat-label>Status</mat-label>
+      <mat-select [(ngModel)]="selectedStatus" (selectionChange)="onStatusChange()">
+        <mat-option value="">All</mat-option>
+        <mat-option value="Pending">Pending</mat-option>
+        <mat-option value="In Progress">In Progress</mat-option>
+        <mat-option value="Completed">Completed</mat-option>
+        <mat-option value="Overdue">Overdue</mat-option>
+      </mat-select>
+    </mat-form-field>
+  </div>
+  

@@ -12,7 +12,7 @@ Taskify is a full-stack task management system built with **Angular 18** on the 
 | Backend      | Node.js, Express              |
 | Database     | MongoDB (Mongoose ODM)        |
 | API Protocol | REST                          |
-| UI Framework | Bootstrap / Angular Material (optional) |
+| UI Framework | Bootstrap & Angular Material  |
 
 ---
 
@@ -98,15 +98,6 @@ ng serve
 
 ---
 
-## 🛠️ Future Improvements
-
-- User authentication (JWT)
-- Drag and drop tasks
-- Notifications/reminders
-- Role-based access
-- Cloud deployment (Docker, CI/CD)
-
----
 
 ## 📸 Screenshots
 
@@ -119,10 +110,6 @@ ng serve
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
-
-## 📄 License
-
-MIT
 
 ---
 

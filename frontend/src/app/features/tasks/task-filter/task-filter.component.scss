@@ -1,0 +1,11 @@
+.filter-container {
+    display: flex;
+    gap: 16px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .filter-input, .filter-select {
+    flex: 1 1 250px;
+  }
+  
