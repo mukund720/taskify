@@ -129,4 +129,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 **Mukund Kumar**  
 📧 mukund720@gmail.com  
-🔗 LinkedIn: [https://www.linkedin.com/in/saranrajendran/](https://www.linkedin.com/in/mukundsinghonline/)
+🔗 LinkedIn: [Mukund](https://www.linkedin.com/in/mukundsinghonline/)
