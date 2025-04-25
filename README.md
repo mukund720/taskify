@@ -101,7 +101,19 @@ ng serve
 
 ## 📸 Screenshots
 
-> Coming soon…
+![Swagger](https://github.com/user-attachments/assets/83cd5979-b839-405d-9fd6-c08803a9b876)
+![Create Task](https://github.com/user-attachments/assets/4d79a7b6-dc0f-4ab8-aa73-a35e2f6a63c3)
+![Edit Task](https://github.com/user-attachments/assets/596d66b5-2e4a-4f50-b092-2443c71cf234)
+![Delete Task](https://github.com/user-attachments/assets/2de31f66-3743-4800-a6b3-baf90d5d9a23)
+![Pageination](https://github.com/user-attachments/assets/f385cb5e-b53e-4478-93d8-9f5dff175854)
+![filter](https://github.com/user-attachments/assets/1944bb54-9d97-46e0-a3bf-d28a91f3ef47)
+
+
+
+
+
+
+
 
 ---
 
